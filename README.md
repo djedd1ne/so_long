@@ -12,7 +12,7 @@ The theme of my project is super Mario, the collectable where replaced by bitcoi
 This project is an introduction to game development elements such as tiles, walls, collectables, maps ...etc. 
 #### Usage
 ```bash
-clone https://github.com/djedd1ne/so_long.git
+git clone https://github.com/djedd1ne/so_long.git
 ```
 ```bash
 cd so_long
